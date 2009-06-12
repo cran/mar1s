@@ -1,0 +1,13 @@
+import(stats)
+
+export(compose.ar1)
+export(decompose.ar1)
+
+export(fit.mar1s)
+export(compose.mar1s)
+export(decompose.mar1s)
+export(sim.mar1s)
+S3method(predict, mar1s)
+
+export(seasonal.ave)
+export(seasonal.smooth)
