@@ -1,4 +1,7 @@
 import(stats)
+import(cmrutils)
+import(fda)
+import(zoo)
 
 export(compose.ar1)
 export(decompose.ar1)
